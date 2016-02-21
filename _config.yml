@@ -1,0 +1,16 @@
+title: "got0"
+
+baseurl: ""
+
+date_format: "%d.%m.%Y"
+
+highlighter: pygments
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+
+include: ["notes"]
+
+production_url : http://username.github.com
+
+permalink: /:title/
+
